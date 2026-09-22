@@ -1,0 +1,12 @@
+# Project Statement: Medical Store Management System
+
+## Problem Statement
+Many small medical shops still write down their daily sales and stock on paper registers. Because of this, shopkeepers often make mistakes in total billing when the store is crowded. It is also hard for them to remember which medicines are running out of stock.
+
+## Proposed Solution
+This project is a simple Python program that helps shop owners manage their medical store easily. It shows available medicines, calculates total bills quickly, reduces sold stock automatically, and gives a warning when any medicine is low in stock.
+
+## Key Features
+- Easy menu interface for daily shop use.
+- Instant bill generation that updates stock levels automatically.
+- Low stock warning to remind the owner to reorder medicines.
