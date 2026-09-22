@@ -6,7 +6,7 @@ A simple Python program designed for local medical stores to manage inventory st
 - **View Medicines:** Display medicine name, price, and available quantity.
 - **Add Stock:** Add new medicines or update existing stock levels.
 - **Create Bill:** Select items, calculate total cost, and automatically update remaining stock.
-- **Low Stock Alert:** Warning notification when medicine stock drops below 10 units.
+- **Low Stock Alert:** Gives Warning when medicine stock drops below 10 units.
 
 ## Project Structure
 - `main.py`: Complete code containing inventory logic, billing, low-stock reporting, and interactive terminal menu.
